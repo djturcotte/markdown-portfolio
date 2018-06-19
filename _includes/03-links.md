@@ -1,1 +1,1 @@
- [link to profile page] (https://djturcotte.github.io/markdown-portfolio/)
+[link to profile page](https://djturcotte.github.io/markdown-portfolio/)
